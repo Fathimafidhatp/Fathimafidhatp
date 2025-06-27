@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fathimafidhatp&show_icons=true&locale=en" alt="fathimafidhatp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fathimafidhatp&theme=default" alt="fathimafidhatp" /></p>
+
