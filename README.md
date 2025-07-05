@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Fidha! 👋</h1>
 <h3 align="center">I’m a Computer Science student passionate about tech.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fathimafidhatp" alt="fathimafidhatp" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
